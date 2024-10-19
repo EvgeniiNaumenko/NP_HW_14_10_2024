@@ -1,0 +1,14 @@
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\bin\Debug\net8.0\ClientPart.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\bin\Debug\net8.0\ClientPart.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\bin\Debug\net8.0\ClientPart.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\bin\Debug\net8.0\ClientPart.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\bin\Debug\net8.0\ClientPart.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ClientPart.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ClientPart.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ClientPart.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ClientPart.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ClientPart.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\refint\ClientPart.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ClientPart.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ClientPart.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\ClientPart\obj\Debug\net8.0\ref\ClientPart.dll

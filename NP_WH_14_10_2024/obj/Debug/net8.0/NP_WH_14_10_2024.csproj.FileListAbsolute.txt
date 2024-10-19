@@ -1,0 +1,14 @@
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\NP_WH_14_10_2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\NP_WH_14_10_2024.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\NP_WH_14_10_2024.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\NP_WH_14_10_2024.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\bin\Debug\net8.0\NP_WH_14_10_2024.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\bin\Debug\net8.0\NP_WH_14_10_2024.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\bin\Debug\net8.0\NP_WH_14_10_2024.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\bin\Debug\net8.0\NP_WH_14_10_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\bin\Debug\net8.0\NP_WH_14_10_2024.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\NP_WH_14_10_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\refint\NP_WH_14_10_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\NP_WH_14_10_2024.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\NP_WH_14_10_2024.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_WH_14_10_2024\NP_WH_14_10_2024\obj\Debug\net8.0\ref\NP_WH_14_10_2024.dll
